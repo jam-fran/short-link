@@ -1,4 +1,7 @@
 # Short Link
-## by James Francis
 
-This is a short link application based on the Meteor and React frameworks.
+This is a link shortener application based on the Meteor and React frameworks.
+
+## Authors
+
+James Francis
