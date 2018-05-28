@@ -48,7 +48,7 @@ export default class Login extends React.Component {
             <button className="button">Log In</button>
           </form>
 
-          <Link to="/signup">Don't have an account? Sign up.</Link>
+          <Link to="/signup">Need an account? Sign up.</Link>
         </div>
       </div>
     );
